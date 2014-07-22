@@ -1,0 +1,12 @@
+{
+  "name": "pigsty-file",
+  "version": "0.1.0",
+  "description": "Log pigsty events to a file.",
+  "main": "./index.js",
+  "repository": "https://github.com/cognizo/pigsty-file",
+  "author": "CATS Software, Inc",
+  "license": "GPLv3",
+  "dependencies": {
+    "debug": "~0.7.2"
+  }
+}
