@@ -2,7 +2,7 @@
   "name": "pigsty-file",
   "version": "0.1.0",
   "description": "Log pigsty events to a file.",
-  "main": "./index.js",
+  "main": "./lib/pigsty-file.js",
   "repository": "https://github.com/cognizo/pigsty-file",
   "author": "CATS Software, Inc",
   "license": "GPLv3",
